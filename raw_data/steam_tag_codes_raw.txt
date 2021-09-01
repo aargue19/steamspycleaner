@@ -1,0 +1,426 @@
+
+			<div class="tag_browse_tags" id="tag_browse_global">
+									<div class="tag_browse_tag" data-tagid="492">Indie</div>
+									<div class="tag_browse_tag" data-tagid="19">Action</div>
+									<div class="tag_browse_tag" data-tagid="21">Adventure</div>
+									<div class="tag_browse_tag" data-tagid="597">Casual</div>
+									<div class="tag_browse_tag" data-tagid="599">Simulation</div>
+									<div class="tag_browse_tag" data-tagid="9">Strategy</div>
+									<div class="tag_browse_tag" data-tagid="122">RPG</div>
+									<div class="tag_browse_tag" data-tagid="4182">Singleplayer</div>
+									<div class="tag_browse_tag" data-tagid="493">Early Access</div>
+									<div class="tag_browse_tag" data-tagid="113">Free to Play</div>
+									<div class="tag_browse_tag" data-tagid="3871">2D</div>
+									<div class="tag_browse_tag" data-tagid="4667">Violent</div>
+									<div class="tag_browse_tag" data-tagid="701">Sports</div>
+									<div class="tag_browse_tag" data-tagid="4166">Atmospheric</div>
+									<div class="tag_browse_tag" data-tagid="128">Massively Multiplayer</div>
+									<div class="tag_browse_tag" data-tagid="3859">Multiplayer</div>
+									<div class="tag_browse_tag" data-tagid="1664">Puzzle</div>
+									<div class="tag_browse_tag" data-tagid="1742">Story Rich</div>
+									<div class="tag_browse_tag" data-tagid="699">Racing</div>
+									<div class="tag_browse_tag" data-tagid="1684">Fantasy</div>
+									<div class="tag_browse_tag" data-tagid="4345">Gore</div>
+									<div class="tag_browse_tag" data-tagid="6650">Nudity</div>
+									<div class="tag_browse_tag" data-tagid="4191">3D</div>
+									<div class="tag_browse_tag" data-tagid="12095">Sexual Content</div>
+									<div class="tag_browse_tag" data-tagid="4305">Colorful</div>
+									<div class="tag_browse_tag" data-tagid="4085">Anime</div>
+									<div class="tag_browse_tag" data-tagid="3964">Pixel Graphics</div>
+									<div class="tag_browse_tag" data-tagid="3839">First-Person</div>
+									<div class="tag_browse_tag" data-tagid="4136">Funny</div>
+									<div class="tag_browse_tag" data-tagid="4726">Cute</div>
+									<div class="tag_browse_tag" data-tagid="1756">Great Soundtrack</div>
+									<div class="tag_browse_tag" data-tagid="3834">Exploration</div>
+									<div class="tag_browse_tag" data-tagid="3942">Sci-fi</div>
+									<div class="tag_browse_tag" data-tagid="1774">Shooter</div>
+									<div class="tag_browse_tag" data-tagid="1773">Arcade</div>
+									<div class="tag_browse_tag" data-tagid="1667">Horror</div>
+									<div class="tag_browse_tag" data-tagid="4004">Retro</div>
+									<div class="tag_browse_tag" data-tagid="5350">Family Friendly</div>
+									<div class="tag_browse_tag" data-tagid="1685">Co-op</div>
+									<div class="tag_browse_tag" data-tagid="21978">VR</div>
+									<div class="tag_browse_tag" data-tagid="1695">Open World</div>
+									<div class="tag_browse_tag" data-tagid="4026">Difficult</div>
+									<div class="tag_browse_tag" data-tagid="1625">Platformer</div>
+									<div class="tag_browse_tag" data-tagid="1662">Survival</div>
+									<div class="tag_browse_tag" data-tagid="1654">Relaxing</div>
+									<div class="tag_browse_tag" data-tagid="4106">Action-Adventure</div>
+									<div class="tag_browse_tag" data-tagid="7208">Female Protagonist</div>
+									<div class="tag_browse_tag" data-tagid="1719">Comedy</div>
+									<div class="tag_browse_tag" data-tagid="1697">Third Person</div>
+									<div class="tag_browse_tag" data-tagid="1663">FPS</div>
+									<div class="tag_browse_tag" data-tagid="3843">Online Co-Op</div>
+									<div class="tag_browse_tag" data-tagid="3799">Visual Novel</div>
+									<div class="tag_browse_tag" data-tagid="1775">PvP</div>
+									<div class="tag_browse_tag" data-tagid="3993">Combat</div>
+									<div class="tag_browse_tag" data-tagid="4252">Stylized</div>
+									<div class="tag_browse_tag" data-tagid="3968">Physics</div>
+									<div class="tag_browse_tag" data-tagid="4175">Realistic</div>
+									<div class="tag_browse_tag" data-tagid="6426">Choices Matter</div>
+									<div class="tag_browse_tag" data-tagid="3810">Sandbox</div>
+									<div class="tag_browse_tag" data-tagid="4791">Top-Down</div>
+									<div class="tag_browse_tag" data-tagid="84">Design &amp; Illustration</div>
+									<div class="tag_browse_tag" data-tagid="4342">Dark</div>
+									<div class="tag_browse_tag" data-tagid="5716">Mystery</div>
+									<div class="tag_browse_tag" data-tagid="7481">Controller</div>
+									<div class="tag_browse_tag" data-tagid="87">Utilities</div>
+									<div class="tag_browse_tag" data-tagid="4747">Character Customization</div>
+									<div class="tag_browse_tag" data-tagid="1721">Psychological Horror</div>
+									<div class="tag_browse_tag" data-tagid="4195">Cartoony</div>
+									<div class="tag_browse_tag" data-tagid="1708">Tactical</div>
+									<div class="tag_browse_tag" data-tagid="1755">Space</div>
+									<div class="tag_browse_tag" data-tagid="6971">Multiple Endings</div>
+									<div class="tag_browse_tag" data-tagid="7368">Local Multiplayer</div>
+									<div class="tag_browse_tag" data-tagid="1677">Turn-Based</div>
+									<div class="tag_browse_tag" data-tagid="1643">Building</div>
+									<div class="tag_browse_tag" data-tagid="1698">Point &amp; Click</div>
+									<div class="tag_browse_tag" data-tagid="4094">Minimalist</div>
+									<div class="tag_browse_tag" data-tagid="3916">Old School</div>
+									<div class="tag_browse_tag" data-tagid="12472">Management</div>
+									<div class="tag_browse_tag" data-tagid="4711">Replay Value</div>
+									<div class="tag_browse_tag" data-tagid="5379">2D Platformer</div>
+									<div class="tag_browse_tag" data-tagid="6730">PvE</div>
+									<div class="tag_browse_tag" data-tagid="1036">Education</div>
+									<div class="tag_browse_tag" data-tagid="4231">Action RPG</div>
+									<div class="tag_browse_tag" data-tagid="4295">Futuristic</div>
+									<div class="tag_browse_tag" data-tagid="1702">Crafting</div>
+									<div class="tag_browse_tag" data-tagid="4057">Magic</div>
+									<div class="tag_browse_tag" data-tagid="3798">Side Scroller</div>
+									<div class="tag_browse_tag" data-tagid="7250">Linear</div>
+									<div class="tag_browse_tag" data-tagid="6815">Hand-drawn</div>
+									<div class="tag_browse_tag" data-tagid="3978">Survival Horror</div>
+									<div class="tag_browse_tag" data-tagid="5125">Procedural Generation</div>
+									<div class="tag_browse_tag" data-tagid="5537">Puzzle Platformer</div>
+									<div class="tag_browse_tag" data-tagid="5611">Mature</div>
+									<div class="tag_browse_tag" data-tagid="8945">Resource Management</div>
+									<div class="tag_browse_tag" data-tagid="1659">Zombies</div>
+									<div class="tag_browse_tag" data-tagid="3841">Local Co-Op</div>
+									<div class="tag_browse_tag" data-tagid="4562">Cartoon</div>
+									<div class="tag_browse_tag" data-tagid="4172">Medieval</div>
+									<div class="tag_browse_tag" data-tagid="1678">War</div>
+									<div class="tag_browse_tag" data-tagid="4255">Shoot 'Em Up</div>
+									<div class="tag_browse_tag" data-tagid="1716">Roguelike</div>
+									<div class="tag_browse_tag" data-tagid="1741">Turn-Based Strategy</div>
+									<div class="tag_browse_tag" data-tagid="10397">Memes</div>
+									<div class="tag_browse_tag" data-tagid="1693">Classic</div>
+									<div class="tag_browse_tag" data-tagid="1646">Hack and Slash</div>
+									<div class="tag_browse_tag" data-tagid="4325">Turn-Based Combat</div>
+									<div class="tag_browse_tag" data-tagid="4604">Dark Fantasy</div>
+									<div class="tag_browse_tag" data-tagid="3987">Historical</div>
+									<div class="tag_browse_tag" data-tagid="1038">Web Publishing</div>
+									<div class="tag_browse_tag" data-tagid="1734">Fast-Paced</div>
+									<div class="tag_browse_tag" data-tagid="3835">Post-apocalyptic</div>
+									<div class="tag_browse_tag" data-tagid="4700">Movie</div>
+									<div class="tag_browse_tag" data-tagid="3959">Roguelite</div>
+									<div class="tag_browse_tag" data-tagid="4947">Romance</div>
+									<div class="tag_browse_tag" data-tagid="5984">Drama</div>
+									<div class="tag_browse_tag" data-tagid="6129">Logic</div>
+									<div class="tag_browse_tag" data-tagid="4434">JRPG</div>
+									<div class="tag_browse_tag" data-tagid="9551">Dating Sim</div>
+									<div class="tag_browse_tag" data-tagid="10695">Party-Based RPG</div>
+									<div class="tag_browse_tag" data-tagid="5900">Walking Simulator</div>
+									<div class="tag_browse_tag" data-tagid="7332">Base Building</div>
+									<div class="tag_browse_tag" data-tagid="5395">3D Platformer</div>
+									<div class="tag_browse_tag" data-tagid="1687">Stealth</div>
+									<div class="tag_browse_tag" data-tagid="4486">Choose Your Own Adventure</div>
+									<div class="tag_browse_tag" data-tagid="4234">Short</div>
+									<div class="tag_browse_tag" data-tagid="1710">Surreal</div>
+									<div class="tag_browse_tag" data-tagid="14139">Turn-Based Tactics</div>
+									<div class="tag_browse_tag" data-tagid="8013">Software</div>
+									<div class="tag_browse_tag" data-tagid="872">Animation &amp; Modeling</div>
+									<div class="tag_browse_tag" data-tagid="11014">Interactive Fiction</div>
+									<div class="tag_browse_tag" data-tagid="5411">Beautiful</div>
+									<div class="tag_browse_tag" data-tagid="5094">Narration</div>
+									<div class="tag_browse_tag" data-tagid="1720">Dungeon Crawler</div>
+									<div class="tag_browse_tag" data-tagid="4885">Bullet Hell</div>
+									<div class="tag_browse_tag" data-tagid="13782">Experimental</div>
+									<div class="tag_browse_tag" data-tagid="1738">Hidden Object</div>
+									<div class="tag_browse_tag" data-tagid="4168">Military</div>
+									<div class="tag_browse_tag" data-tagid="5154">Score Attack</div>
+									<div class="tag_browse_tag" data-tagid="3814">Third-Person Shooter</div>
+									<div class="tag_browse_tag" data-tagid="1676">RTS</div>
+									<div class="tag_browse_tag" data-tagid="1743">Fighting</div>
+									<div class="tag_browse_tag" data-tagid="5711">Team-Based</div>
+									<div class="tag_browse_tag" data-tagid="5851">Isometric</div>
+									<div class="tag_browse_tag" data-tagid="4115">Cyberpunk</div>
+									<div class="tag_browse_tag" data-tagid="5752">Robots</div>
+									<div class="tag_browse_tag" data-tagid="6691">1990's</div>
+									<div class="tag_browse_tag" data-tagid="4637">Top-Down Shooter</div>
+									<div class="tag_browse_tag" data-tagid="5923">Dark Humor</div>
+									<div class="tag_browse_tag" data-tagid="1621">Music</div>
+									<div class="tag_browse_tag" data-tagid="1027">Audio Production</div>
+									<div class="tag_browse_tag" data-tagid="1644">Driving</div>
+									<div class="tag_browse_tag" data-tagid="5577">RPGMaker</div>
+									<div class="tag_browse_tag" data-tagid="31275">Text-Based</div>
+									<div class="tag_browse_tag" data-tagid="4840">4 Player Local</div>
+									<div class="tag_browse_tag" data-tagid="9130">Hentai</div>
+									<div class="tag_browse_tag" data-tagid="5608">Emotional</div>
+									<div class="tag_browse_tag" data-tagid="1673">Aliens</div>
+									<div class="tag_browse_tag" data-tagid="4975">2.5D</div>
+									<div class="tag_browse_tag" data-tagid="30358">Nature</div>
+									<div class="tag_browse_tag" data-tagid="4695">Economy</div>
+									<div class="tag_browse_tag" data-tagid="9204">Immersive Sim</div>
+									<div class="tag_browse_tag" data-tagid="4400">Abstract</div>
+									<div class="tag_browse_tag" data-tagid="7743">1980s</div>
+									<div class="tag_browse_tag" data-tagid="1666">Card Game</div>
+									<div class="tag_browse_tag" data-tagid="3878">Competitive</div>
+									<div class="tag_browse_tag" data-tagid="15045">Flight</div>
+									<div class="tag_browse_tag" data-tagid="4145">Cinematic</div>
+									<div class="tag_browse_tag" data-tagid="1759">Perma Death</div>
+									<div class="tag_browse_tag" data-tagid="15172">Conversation</div>
+									<div class="tag_browse_tag" data-tagid="44868">LGBTQ+</div>
+									<div class="tag_browse_tag" data-tagid="784">Video Production</div>
+									<div class="tag_browse_tag" data-tagid="8369">Investigation</div>
+									<div class="tag_browse_tag" data-tagid="1669">Moddable</div>
+									<div class="tag_browse_tag" data-tagid="42804">Action Roguelike</div>
+									<div class="tag_browse_tag" data-tagid="7948">Soundtrack</div>
+									<div class="tag_browse_tag" data-tagid="6276">Inventory Management</div>
+									<div class="tag_browse_tag" data-tagid="1645">Tower Defense</div>
+									<div class="tag_browse_tag" data-tagid="1770">Board Game</div>
+									<div class="tag_browse_tag" data-tagid="12057">Tutorial</div>
+									<div class="tag_browse_tag" data-tagid="5547">Arena Shooter</div>
+									<div class="tag_browse_tag" data-tagid="5186">Psychological</div>
+									<div class="tag_browse_tag" data-tagid="5613">Detective</div>
+									<div class="tag_browse_tag" data-tagid="4328">City Builder</div>
+									<div class="tag_browse_tag" data-tagid="4064">Thriller</div>
+									<div class="tag_browse_tag" data-tagid="6869">Nonlinear</div>
+									<div class="tag_browse_tag" data-tagid="5363">Destruction</div>
+									<div class="tag_browse_tag" data-tagid="4158">Beat 'em up</div>
+									<div class="tag_browse_tag" data-tagid="3813">Real Time Tactics</div>
+									<div class="tag_browse_tag" data-tagid="9541">Demons</div>
+									<div class="tag_browse_tag" data-tagid="17305">Strategy RPG</div>
+									<div class="tag_browse_tag" data-tagid="5673">Modern</div>
+									<div class="tag_browse_tag" data-tagid="3955">Character Action Game</div>
+									<div class="tag_browse_tag" data-tagid="24904">NSFW</div>
+									<div class="tag_browse_tag" data-tagid="4236">Loot</div>
+									<div class="tag_browse_tag" data-tagid="7926">Artificial Intelligence</div>
+									<div class="tag_browse_tag" data-tagid="17389">Tabletop</div>
+									<div class="tag_browse_tag" data-tagid="1628">Metroidvania</div>
+									<div class="tag_browse_tag" data-tagid="16689">Time Management</div>
+									<div class="tag_browse_tag" data-tagid="1714">Psychedelic</div>
+									<div class="tag_browse_tag" data-tagid="5030">Dystopian </div>
+									<div class="tag_browse_tag" data-tagid="10235">Life Sim</div>
+									<div class="tag_browse_tag" data-tagid="8122">Level Editor</div>
+									<div class="tag_browse_tag" data-tagid="379975">Clicker</div>
+									<div class="tag_browse_tag" data-tagid="3854">Lore-Rich</div>
+									<div class="tag_browse_tag" data-tagid="4598">Alternate History</div>
+									<div class="tag_browse_tag" data-tagid="21725">Tactical RPG</div>
+									<div class="tag_browse_tag" data-tagid="4684">Wargame</div>
+									<div class="tag_browse_tag" data-tagid="3877">Precision Platformer</div>
+									<div class="tag_browse_tag" data-tagid="10808">Supernatural</div>
+									<div class="tag_browse_tag" data-tagid="13906">Game Development</div>
+									<div class="tag_browse_tag" data-tagid="1754">MMORPG</div>
+									<div class="tag_browse_tag" data-tagid="4150">World War II</div>
+									<div class="tag_browse_tag" data-tagid="4190">Addictive</div>
+									<div class="tag_browse_tag" data-tagid="1751">Comic Book</div>
+									<div class="tag_browse_tag" data-tagid="6378">Crime</div>
+									<div class="tag_browse_tag" data-tagid="19995">Dark Comedy</div>
+									<div class="tag_browse_tag" data-tagid="4036">Parkour</div>
+									<div class="tag_browse_tag" data-tagid="1445">Software Training</div>
+									<div class="tag_browse_tag" data-tagid="4758">Twin Stick Shooter</div>
+									<div class="tag_browse_tag" data-tagid="5228">Blood</div>
+									<div class="tag_browse_tag" data-tagid="1100687">Automobile Sim</div>
+									<div class="tag_browse_tag" data-tagid="29482">Souls-like</div>
+									<div class="tag_browse_tag" data-tagid="4736">2D Fighter</div>
+									<div class="tag_browse_tag" data-tagid="16094">Mythology</div>
+									<div class="tag_browse_tag" data-tagid="8666">Runner</div>
+									<div class="tag_browse_tag" data-tagid="4364">Grand Strategy</div>
+									<div class="tag_browse_tag" data-tagid="4508">Co-op Campaign</div>
+									<div class="tag_browse_tag" data-tagid="5794">Science</div>
+									<div class="tag_browse_tag" data-tagid="7569">Grid-Based Movement</div>
+									<div class="tag_browse_tag" data-tagid="15277">Philosophical</div>
+									<div class="tag_browse_tag" data-tagid="4474">CRPG</div>
+									<div class="tag_browse_tag" data-tagid="7478">Illuminati</div>
+									<div class="tag_browse_tag" data-tagid="1100689">Open World Survival Craft</div>
+									<div class="tag_browse_tag" data-tagid="10816">Split Screen</div>
+									<div class="tag_browse_tag" data-tagid="16598">Space Sim</div>
+									<div class="tag_browse_tag" data-tagid="1752">Rhythm</div>
+									<div class="tag_browse_tag" data-tagid="4155">Class-Based</div>
+									<div class="tag_browse_tag" data-tagid="7432">Lovecraftian</div>
+									<div class="tag_browse_tag" data-tagid="4608">Swordplay</div>
+									<div class="tag_browse_tag" data-tagid="5765">Gun Customization</div>
+									<div class="tag_browse_tag" data-tagid="176981">Battle Royale</div>
+									<div class="tag_browse_tag" data-tagid="4242">Episodic</div>
+									<div class="tag_browse_tag" data-tagid="4161">Real-Time</div>
+									<div class="tag_browse_tag" data-tagid="5055">eSports</div>
+									<div class="tag_browse_tag" data-tagid="3965">Epic</div>
+									<div class="tag_browse_tag" data-tagid="29363">3D Vision</div>
+									<div class="tag_browse_tag" data-tagid="1665">Match 3</div>
+									<div class="tag_browse_tag" data-tagid="4046">Dragons</div>
+									<div class="tag_browse_tag" data-tagid="11123">Mouse only</div>
+									<div class="tag_browse_tag" data-tagid="7782">Cult Classic</div>
+									<div class="tag_browse_tag" data-tagid="4878">Parody </div>
+									<div class="tag_browse_tag" data-tagid="6052">Noir</div>
+									<div class="tag_browse_tag" data-tagid="4835">6DOF</div>
+									<div class="tag_browse_tag" data-tagid="11104">Vehicular Combat</div>
+									<div class="tag_browse_tag" data-tagid="1651">Satire</div>
+									<div class="tag_browse_tag" data-tagid="13190">America</div>
+									<div class="tag_browse_tag" data-tagid="32322">Deckbuilding</div>
+									<div class="tag_browse_tag" data-tagid="17894">Cats</div>
+									<div class="tag_browse_tag" data-tagid="809">Photo Editing</div>
+									<div class="tag_browse_tag" data-tagid="1732">Voxel</div>
+									<div class="tag_browse_tag" data-tagid="5652">Collectathon</div>
+									<div class="tag_browse_tag" data-tagid="4853">Political</div>
+									<div class="tag_browse_tag" data-tagid="1777">Steampunk</div>
+									<div class="tag_browse_tag" data-tagid="5796">Bullet Time</div>
+									<div class="tag_browse_tag" data-tagid="4202">Trading</div>
+									<div class="tag_browse_tag" data-tagid="5372">Conspiracy</div>
+									<div class="tag_browse_tag" data-tagid="791774">Card Battler</div>
+									<div class="tag_browse_tag" data-tagid="4845">Capitalism</div>
+									<div class="tag_browse_tag" data-tagid="4821">Mechs</div>
+									<div class="tag_browse_tag" data-tagid="6625">Time Manipulation</div>
+									<div class="tag_browse_tag" data-tagid="5981">Mining</div>
+									<div class="tag_browse_tag" data-tagid="9564">Hunting</div>
+									<div class="tag_browse_tag" data-tagid="1718">MOBA</div>
+									<div class="tag_browse_tag" data-tagid="13276">Tanks</div>
+									<div class="tag_browse_tag" data-tagid="6506">3D Fighter</div>
+									<div class="tag_browse_tag" data-tagid="3952">Gothic</div>
+									<div class="tag_browse_tag" data-tagid="220585">Colony Sim</div>
+									<div class="tag_browse_tag" data-tagid="615955">Idler</div>
+									<div class="tag_browse_tag" data-tagid="5708">Remake</div>
+									<div class="tag_browse_tag" data-tagid="4754">Politics</div>
+									<div class="tag_browse_tag" data-tagid="5502">Hacking</div>
+									<div class="tag_browse_tag" data-tagid="10679">Time Travel</div>
+									<div class="tag_browse_tag" data-tagid="31579">Otome</div>
+									<div class="tag_browse_tag" data-tagid="1681">Pirates</div>
+									<div class="tag_browse_tag" data-tagid="1688">Ninja</div>
+									<div class="tag_browse_tag" data-tagid="21006">Underground</div>
+									<div class="tag_browse_tag" data-tagid="22602">Agriculture</div>
+									<div class="tag_browse_tag" data-tagid="198631">Mystery Dungeon</div>
+									<div class="tag_browse_tag" data-tagid="1670">4X</div>
+									<div class="tag_browse_tag" data-tagid="7107">Real-Time with Pause</div>
+									<div class="tag_browse_tag" data-tagid="5179">Cold War</div>
+									<div class="tag_browse_tag" data-tagid="24003">Word Game</div>
+									<div class="tag_browse_tag" data-tagid="1717">Hex Grid</div>
+									<div class="tag_browse_tag" data-tagid="9592">Dynamic Narration</div>
+									<div class="tag_browse_tag" data-tagid="5300">God Game</div>
+									<div class="tag_browse_tag" data-tagid="4559">Quick-Time Events</div>
+									<div class="tag_browse_tag" data-tagid="6915">Martial Arts</div>
+									<div class="tag_browse_tag" data-tagid="255534">Automation</div>
+									<div class="tag_browse_tag" data-tagid="87918">Farming Sim</div>
+									<div class="tag_browse_tag" data-tagid="1638">Dog</div>
+									<div class="tag_browse_tag" data-tagid="5153">Kickstarter</div>
+									<div class="tag_browse_tag" data-tagid="1671">Superhero</div>
+									<div class="tag_browse_tag" data-tagid="4777">Spectacle fighter</div>
+									<div class="tag_browse_tag" data-tagid="18594">FMV</div>
+									<div class="tag_browse_tag" data-tagid="620519">Hero Shooter</div>
+									<div class="tag_browse_tag" data-tagid="15564">Fishing</div>
+									<div class="tag_browse_tag" data-tagid="4102">Combat Racing</div>
+									<div class="tag_browse_tag" data-tagid="1616">Trains</div>
+									<div class="tag_browse_tag" data-tagid="5160">Dinosaurs</div>
+									<div class="tag_browse_tag" data-tagid="4376">Assassin</div>
+									<div class="tag_browse_tag" data-tagid="1647">Western</div>
+									<div class="tag_browse_tag" data-tagid="17770">Asynchronous Multiplayer</div>
+									<div class="tag_browse_tag" data-tagid="9271">Trading Card Game</div>
+									<div class="tag_browse_tag" data-tagid="6910">Naval</div>
+									<div class="tag_browse_tag" data-tagid="5432">Programming</div>
+									<div class="tag_browse_tag" data-tagid="1649">GameMaker</div>
+									<div class="tag_browse_tag" data-tagid="9157">Underwater</div>
+									<div class="tag_browse_tag" data-tagid="25085">Touch-Friendly</div>
+									<div class="tag_browse_tag" data-tagid="9994">Experience</div>
+									<div class="tag_browse_tag" data-tagid="13070">Solitaire</div>
+									<div class="tag_browse_tag" data-tagid="1680">Heist</div>
+									<div class="tag_browse_tag" data-tagid="3934">Immersive</div>
+									<div class="tag_browse_tag" data-tagid="5348">Mod</div>
+									<div class="tag_browse_tag" data-tagid="8093">Minigames</div>
+									<div class="tag_browse_tag" data-tagid="353880">Looter Shooter</div>
+									<div class="tag_browse_tag" data-tagid="4018">Vampire</div>
+									<div class="tag_browse_tag" data-tagid="13382">Archery</div>
+									<div class="tag_browse_tag" data-tagid="7108">Party</div>
+									<div class="tag_browse_tag" data-tagid="6310">Diplomacy</div>
+									<div class="tag_browse_tag" data-tagid="916648">Creature Collector</div>
+									<div class="tag_browse_tag" data-tagid="15339">Documentary</div>
+									<div class="tag_browse_tag" data-tagid="14153">Dungeons &amp; Dragons</div>
+									<div class="tag_browse_tag" data-tagid="180368">Faith</div>
+									<div class="tag_browse_tag" data-tagid="26921">Political Sim</div>
+									<div class="tag_browse_tag" data-tagid="7702">Narrative</div>
+									<div class="tag_browse_tag" data-tagid="1730">Sokoban</div>
+									<div class="tag_browse_tag" data-tagid="5230">Sequel</div>
+									<div class="tag_browse_tag" data-tagid="7178">Party Game</div>
+									<div class="tag_browse_tag" data-tagid="4994">Naval Combat</div>
+									<div class="tag_browse_tag" data-tagid="9803">Snow</div>
+									<div class="tag_browse_tag" data-tagid="51306">Foreign</div>
+									<div class="tag_browse_tag" data-tagid="5310">Games Workshop</div>
+									<div class="tag_browse_tag" data-tagid="10383">Transportation</div>
+									<div class="tag_browse_tag" data-tagid="13577">Sailing</div>
+									<div class="tag_browse_tag" data-tagid="8253">Music-Based Procedural Generation</div>
+									<div class="tag_browse_tag" data-tagid="5390">Time Attack</div>
+									<div class="tag_browse_tag" data-tagid="7423">Sniper</div>
+									<div class="tag_browse_tag" data-tagid="11333">Villain Protagonist</div>
+									<div class="tag_browse_tag" data-tagid="150626">Gaming</div>
+									<div class="tag_browse_tag" data-tagid="7226">Football</div>
+									<div class="tag_browse_tag" data-tagid="1679">Soccer</div>
+									<div class="tag_browse_tag" data-tagid="5382">World War I</div>
+									<div class="tag_browse_tag" data-tagid="56690">On-Rails Shooter</div>
+									<div class="tag_browse_tag" data-tagid="7113">Crowdfunded</div>
+									<div class="tag_browse_tag" data-tagid="6041">Horses</div>
+									<div class="tag_browse_tag" data-tagid="15954">Silent Protagonist</div>
+									<div class="tag_browse_tag" data-tagid="7622">Offroad</div>
+									<div class="tag_browse_tag" data-tagid="3920">Cooking</div>
+									<div class="tag_browse_tag" data-tagid="1674">Typing</div>
+									<div class="tag_browse_tag" data-tagid="1084988">Auto Battler</div>
+									<div class="tag_browse_tag" data-tagid="6702">Mars</div>
+									<div class="tag_browse_tag" data-tagid="4137">Transhumanism</div>
+									<div class="tag_browse_tag" data-tagid="16250">Gambling</div>
+									<div class="tag_browse_tag" data-tagid="776177">360 Video</div>
+									<div class="tag_browse_tag" data-tagid="17015">Werewolves</div>
+									<div class="tag_browse_tag" data-tagid="4184">Chess</div>
+									<div class="tag_browse_tag" data-tagid="8075">TrackIR</div>
+									<div class="tag_browse_tag" data-tagid="10437">Trivia</div>
+									<div class="tag_browse_tag" data-tagid="12190">Boxing</div>
+									<div class="tag_browse_tag" data-tagid="4520">Farming</div>
+									<div class="tag_browse_tag" data-tagid="6621">Pinball</div>
+									<div class="tag_browse_tag" data-tagid="1733">Unforgiving</div>
+									<div class="tag_browse_tag" data-tagid="14720">Nostalgia</div>
+									<div class="tag_browse_tag" data-tagid="1736">LEGO</div>
+									<div class="tag_browse_tag" data-tagid="454187">Traditional Roguelike</div>
+									<div class="tag_browse_tag" data-tagid="1091588">Roguelike Deckbuilder</div>
+									<div class="tag_browse_tag" data-tagid="12286">Warhammer 40K</div>
+									<div class="tag_browse_tag" data-tagid="3796">Based On A Novel</div>
+									<div class="tag_browse_tag" data-tagid="198913">Motorbike</div>
+									<div class="tag_browse_tag" data-tagid="6948">Rome</div>
+									<div class="tag_browse_tag" data-tagid="1723">Action RTS</div>
+									<div class="tag_browse_tag" data-tagid="7038">Golf</div>
+									<div class="tag_browse_tag" data-tagid="92092">Jet</div>
+									<div class="tag_browse_tag" data-tagid="29855">Ambient</div>
+									<div class="tag_browse_tag" data-tagid="61357">Electronic Music</div>
+									<div class="tag_browse_tag" data-tagid="4291">Spaceships</div>
+									<div class="tag_browse_tag" data-tagid="1100686">Outbreak Sim</div>
+									<div class="tag_browse_tag" data-tagid="1100688">Medical Sim</div>
+									<div class="tag_browse_tag" data-tagid="856791">Asymmetric VR</div>
+									<div class="tag_browse_tag" data-tagid="123332">Bikes</div>
+									<div class="tag_browse_tag" data-tagid="1746">Basketball</div>
+									<div class="tag_browse_tag" data-tagid="19780">Submarine</div>
+									<div class="tag_browse_tag" data-tagid="71389">Spelling</div>
+									<div class="tag_browse_tag" data-tagid="922563">Roguevania</div>
+									<div class="tag_browse_tag" data-tagid="745697">Social Deduction</div>
+									<div class="tag_browse_tag" data-tagid="14906">Intentionally Awkward Controls</div>
+									<div class="tag_browse_tag" data-tagid="22955">Mini Golf</div>
+									<div class="tag_browse_tag" data-tagid="17927">Pool</div>
+									<div class="tag_browse_tag" data-tagid="348922">Steam Machine</div>
+									<div class="tag_browse_tag" data-tagid="5407">Benchmark</div>
+									<div class="tag_browse_tag" data-tagid="47827">Wrestling</div>
+									<div class="tag_browse_tag" data-tagid="189941">Instrumental Music</div>
+									<div class="tag_browse_tag" data-tagid="603297">Hardware</div>
+									<div class="tag_browse_tag" data-tagid="5914">Tennis</div>
+									<div class="tag_browse_tag" data-tagid="1753">Skateboarding</div>
+									<div class="tag_browse_tag" data-tagid="5727">Baseball</div>
+									<div class="tag_browse_tag" data-tagid="17337">Lemmings</div>
+									<div class="tag_browse_tag" data-tagid="324176">Hockey</div>
+									<div class="tag_browse_tag" data-tagid="233824">Feature Film</div>
+									<div class="tag_browse_tag" data-tagid="96359">Skating</div>
+									<div class="tag_browse_tag" data-tagid="7328">Bowling</div>
+									<div class="tag_browse_tag" data-tagid="19568">Cycling</div>
+									<div class="tag_browse_tag" data-tagid="27758">Voice Control</div>
+									<div class="tag_browse_tag" data-tagid="15868">Motocross</div>
+									<div class="tag_browse_tag" data-tagid="337964">Rock Music</div>
+									<div class="tag_browse_tag" data-tagid="143739">Electronic</div>
+									<div class="tag_browse_tag" data-tagid="129761">ATV</div>
+									<div class="tag_browse_tag" data-tagid="8461">Well-Written</div>
+									<div class="tag_browse_tag" data-tagid="117648">8-bit Music</div>
+									<div class="tag_browse_tag" data-tagid="252854">BMX</div>
+									<div class="tag_browse_tag" data-tagid="7309">Skiing</div>
+									<div class="tag_browse_tag" data-tagid="28444">Snowboarding</div>
+									<div class="tag_browse_tag" data-tagid="5941">Reboot</div>
+							</div>
